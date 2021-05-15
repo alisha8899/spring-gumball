@@ -17,7 +17,7 @@
 ![2.4](./images/2.4_2.png)
 ![2.4](./images/2.4_3.png)
 ![workloads](./images/workloads.png)
-![service](./images/service.png)
+![service](./images/services.png)
 ![create ingress](./images/create_ingress.png)
 ![ingress](./images/ingress.png)
 ![gumball](./images/gumball.png)
